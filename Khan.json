@@ -1,0 +1,69 @@
+const menuArray = [
+  
+{
+  title:'KHAN KARAHI',
+  data:[
+    {
+      name:'Chicken Karahi',
+      deal:'A Full Handi Chicken Karahi prepared in zomatino sauce',
+      price:1470,
+      image:'https://i.im.ge/2022/07/03/uUoVGG.jpg',
+      selected:false,
+    },
+  {
+      name:'Mutton Karahi',
+      deal:'A Traditional Mutton Handi prepared in ginger and tomatoes',
+      price:2170,
+      image:'https://i.im.ge/2022/07/03/uUoHpJ.png',
+      selected:false,
+    },
+
+  ]
+},
+{
+  title:'BBQ',
+  data:[
+    {
+      name:'Chicken Tikka Masala',
+      deal:'A 220g Chicken Thigh/Leg',
+      price:419,
+      image:'https://i.im.ge/2022/07/03/uUov2y.jpg',
+      selected:false
+    },
+
+    {
+      name:'Chicken Seekh Kebabs',
+      deal:'A 6 piece Chicken Seekh Kebab Platter',
+      price:710,
+      image:'https://i.im.ge/2022/07/03/uUoJ6S.png',
+      selected:false
+    },
+
+  ]
+},
+
+{
+  title:'Extra Add Ons',
+  data:[
+    {
+      name:'Mint Raita',
+      deal:'Fermentized Yougurt blended with Mint and Pepper',
+      price:90,
+      image:'https://i.im.ge/2022/07/03/uUoBl6.jpg',
+      selected:false
+    },
+    {
+      name:'Naan',
+      deal:'Bundu Khans Naantastics',
+      price:30,
+      image:'https://i.im.ge/2022/07/03/uUoecK.jpg',
+      selected:false
+    },
+
+
+   
+  ]
+},
+
+
+];
