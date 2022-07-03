@@ -1,0 +1,31 @@
+[
+  {
+        "restaurant":"Burger King",
+        "foodItems":{
+						
+					"burgers":[
+            {"foodName":"Whopper with Cheese", "calories":740 },
+	    			{"foodName":"Double Bacon Burger", "calories":370, "correctedTerm":"Bacon Double Cheeseburger" },
+            {"foodName":"Double Whopper", "foodType":"Burger", "calories":900},
+	    			{"foodName":"Triple Whopper", "calories":1130},
+            {"foodName":"Crispy Chicken Junior", "foodType":"Chicken", "calories":450},
+            {"foodName":"Chicken Junior", "calories":450},
+            {"foodName":"Chicken Jr", "calories":450},
+            {"foodName":"Veggie Burger","calories":390},
+            {"foodName":"BK Veggie Burger","calories":390},
+						],
+					"fries":[
+	    			{"foodName":"Chicken Fries","calories":290, "sideItem":true, "ketchupItem":true},
+            {"foodName":"French Fries","calories":380, "correctedTerm":"Medium Fries", "sideItem":true, "ketchupItem":true},	    
+            {"foodName":"Medium Fries","calories":380, "sideItem":true, "ketchupItem":true},
+            {"foodName":"Small Fries","calories":320, "sideItem":true, "ketchupItem":true},
+            {"foodName":"Value Fries","calories":220, "sideItem":true, "ketchupItem":true},
+            {"foodName":"Large Fries","calories":430, "sideItem":true, "ketchupItem":true},
+						],
+					"salad":[
+	    			{"foodName":"Side Salad", "calories":60, "sideItem":true},
+						],
+	  
+					}
+    },
+]
