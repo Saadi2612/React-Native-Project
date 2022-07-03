@@ -1,0 +1,68 @@
+const menuArray = [
+  
+{
+  title:'POPULAR BOWLS',
+  data:[
+    {
+      name:'Standard Classic Bowl',
+      deal:'1 Side and 1 Classic Main.',
+      price:1270,
+      image:'https://i.ibb.co/QQkJ61m/standardbowl.jpg',
+      selected:false,
+    },
+    {
+      name:'Premium Deluxe Bowl',
+      deal:'1 Side and 2 Premium Main.',
+      price:1793,
+      image:'https://i.im.ge/2022/07/03/uUow1Y.jpg',
+      selected:false,
+    },
+  
+  ]
+},
+{
+  title:'STARTERS',
+  data:[
+    {
+      name:'Chicken DrumSticks',
+      deal:'2 150g Chickens',
+      price:719,
+      image:'https://i.im.ge/2022/07/03/uUoyiq.jpg',
+      selected:false
+    },
+
+    {
+      name:'Honey Glazed Chilli Prawns',
+      deal:'3 Pieces Prawns',
+      price:910,
+      image:'https://i.im.ge/2022/07/03/uUox71.jpg',
+      selected:false
+    },
+
+  ]
+},
+
+{
+  title:'SEAFOOD',
+  data:[
+    {
+      name:'Fish N Dragone',
+      deal:'Fish wrapped up in Dragon Fire Sauce',
+      price:1060,
+      image:'https://i.im.ge/2022/07/03/uUo3Af.jpg',
+      selected:false
+    },
+    {
+      name:'Fish Chilli Dry',
+      deal:'A delicious, tangy Indo-fusion dish, Chilli Fish',
+      price:1060,
+      image:'https://i.im.ge/2022/07/03/uUoYpm.jpg',
+      selected:false
+    },
+
+   
+  ]
+},
+
+
+];
