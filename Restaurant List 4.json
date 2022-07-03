@@ -1,4 +1,5 @@
 [
+        {
         "restaurant":"Burger King",
         "foodItems":[
   {
@@ -16,5 +17,6 @@
   {
     title: "Salad",
     data: ["Side Salad", "Russian Salad"]
-  }
+  },
+         }
 ]
