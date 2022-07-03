@@ -1,0 +1,64 @@
+const menuArray = [
+  
+{
+  title:'Summer Deals',
+  data:[
+    {
+      name:'Summer Deal 1',
+      deal:'Krunch Burger with Hot & Crispy Chicken Piece',
+      price:450,
+      image:'https://i.im.ge/2022/07/03/uUogwW.jpg',
+      selected:false,
+    },
+    {
+      name:'Summer Deal 2',
+      deal:'1 Zinger Burger + 1 Pc Chicken + 1 Fries + 1 Drink + 1 Coleslaw.',
+      price:795,
+      image:'https://i.im.ge/2022/07/03/uUoWlT.jpg',
+      selected:false
+    }
+  ]
+},
+{
+  title:'EveryDay Value Deals',
+  data:[
+    {
+      name:'3 PCS CHICKEN',
+      deal:'3 pieces of hot & crispy chicken.',
+      price:470,
+      image:'https://i.im.ge/2022/07/03/uUoZic.jpg',
+      selected:false
+    },
+   
+  ]
+},
+
+{
+  title:'Signature Boxes',
+  data:[
+    {
+      name:'CRISPY DUO BOX',
+      deal:'5 Pcs Hot & Crispy Chicken + 1 Large Fries + 2 Drinks.',
+      price:990,
+      image:'https://i.im.ge/2022/07/03/uUoKcL.jpg',
+      selected:false
+    },
+   
+  ]
+},
+{
+  title:'ADD ONS',
+  data:[
+    {
+      name:'Mighty Zinger',
+      deal:'Two Chicken Filets with Italian Cheese',
+      price:620,
+      image:summerdeal1,
+      selected:false
+    },
+   
+  ]
+}
+
+
+];
