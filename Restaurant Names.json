@@ -1,59 +1,59 @@
 [
     {
-        "restaurant":"Bundu Khan",
+        "name":"Bundu Khan",
         "cuisine": "Continental",
     },
     {
-        "restaurant":"KFC",
+        "name":"KFC",
         "cuisine": "Fast Food",
     },
     {
-        "restaurant":"Rice Bowl",
+        "name":"Rice Bowl",
         "cuisine": "Chinese",
     },
     {
-        "restaurant":"Burger King",
+        "name":"Burger King",
         "cuisine": "Fast Food"
     },
     {
-        "restaurant":"Subway",
+        "name":"Subway",
         "cuisine": "Fast Food",
     },
     
     {
-        "restaurant":"McDonalds",
+        "name":"McDonalds",
         "cuisine": "Fast Food",
     },
     {
-        "restaurant":"Wendys",
+        "name":"Wendys",
         "cuisine": "Fast Food",
     },
     {
-        "restaurant":"Taco Bell",
+        "name":"Taco Bell",
         "cuisine": "Fast Food",
     },
     {
-        "restaurant":"Arbys",
+        "name":"Savour",
         "cuisine": "Continental",
     },
     {
-        "restaurant":"Hardees",
+        "name":"Hardees",
         "cuisine": "Fast Food",
     },
     {
-	      "restaurant":"Five Guys",
-        "cuisine": "Fast Food",
+	"name":"Lord Of Food",
+        "cuisine": "Continental",
     },
     {
-        "restaurant":"Sonic",
+        "name":"Sonic",
         "cuisine": "Italian",
     },
     {
-        "restaurant":"Panda Express",
+        "name":"Panda Express",
         "cuisine": "Chinese",
     },
     {
-        "restaurant":"Cookout",
+        "name":"Cookout",
         "cuisine": "Italian",
     }
 ]
