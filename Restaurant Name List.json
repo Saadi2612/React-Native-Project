@@ -41,7 +41,7 @@
         "cuisine": "Fast Food",
     },
     {
-				"name":"Lord Of Food",
+	"name":"Lord Of Food",
         "cuisine": "Continental",
     },
     {
@@ -55,5 +55,5 @@
     {
         "name":"Cookout",
         "cuisine": "Italian",
-    }
+    },
 ]
