@@ -4,8 +4,8 @@
         cuisine: "Continental",
     },
     {
-        "name":"KFC",
-        "cuisine": "Fast Food",
+        name:"KFC",
+        cuisine: "Fast Food",
     },
     {
         "name":"Rice Bowl",
