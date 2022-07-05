@@ -1,52 +1,32 @@
 [  
     {  
-        "name": "Bundu Khan",
-        "cuisine": "Continental",
+        "name":"Cheesecake Factory",
+        "cuisine":"American",
         "id":1
     },
     {  
-        "name":"KFC",
-        "cuisine":"Fast Food",
+        "name":"Shokolaat",
+        "cuisine":"American",
         "id":2
     },
     {  
-        "name":"Rice Bowl",
-        "cuisine":"Chinese",
+        "name":"Gordon Biersch",
+        "cuisine":"American",
         "id":3
     },
     {  
-        "name":"Burger King",
-        "cuisine":"Fast Food",
+        "name":"Crepevine",
+        "cuisine":"American",
         "id":4
     },
     {  
-        "name":"Subway",
-        "cuisine":"Fast Food",
+        "name":"Creamery",
+        "cuisine":"American",
         "id":5
     },
     {  
-        "name":"McDonalds",
-        "cuisine": "Fast Food",
+        "name":"Old Pro",
+        "cuisine":"American",
         "id":6
-    },
-    {  
-        "name":"Savour",
-        "cuisine":"Continental",
-        "id":7
-    },
-    {  
-        "name":"Junoon",
-        "cuisine":"Indian",
-        "id":8
-    },
-    {  
-        "name":"Hyderabad House",
-        "cuisine":"Pakistani",
-        "id":9
-    },
-    {  
-        "name":"Lord Of Food",
-        "cuisine": "Pakistani",
-        "id":10
-    },
+    }
 ]
