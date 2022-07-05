@@ -1,21 +1,21 @@
 [  
     {  
-        "name":"Cheesecake Factory",
-        "cuisine":"American",
+        "name":"Bundu Khan",
+        "cuisine":"Pakistani",
         "id":1
     },
     {  
-        "name":"Shokolaat",
-        "cuisine":"American",
+        "name":"KFC",
+        "cuisine":"Fast Food",
         "id":2
     },
     {  
-        "name":"Gordon Biersch",
-        "cuisine":"American",
+        "name":"The Rice Bowl",
+        "cuisine":"Chinese",
         "id":3
     },
     {  
-        "name":"Crepevine",
+        "name":"Mc Donald\'s",
         "cuisine":"American",
         "id":4
     },
